@@ -1,7 +1,7 @@
 # Employee-CRUD
-.Net 6 MVC
-
 CRUD Operations in .Net 6 MVC
+
+.Net 6 MVC
 
 Sample Output
 
